@@ -1,0 +1,66 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Gradle caches
+.gradle/
+
+# Ignore Android Studio specific files
+.idea/
+
+# Ignore build output directories
+build/
+app/build/
+
+# Ignore generated files
+gen/
+out/
+generated/
+
+# Log files
+*.log
+
+# Bytecode files
+*.class
+
+# Keystore files
+*.keystore
+
+# Apk files
+*.apk
+*.ap_
+
+# IntelliJ IDEA specific files
+*.iws
+*.ipr
+*.iws
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Temporary files created by editors
+*.swp
+*.swo
+*~
+
