@@ -1,2 +1,2 @@
-# zen-maths-tutor
+# MathMantra
 Maths-Tutor for smart devices
